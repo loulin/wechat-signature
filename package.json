@@ -1,0 +1,28 @@
+{
+  "name": "wechat-signature",
+  "version": "0.0.1",
+  "description": "signature util for wechat apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loulin/wechat-signature.git"
+  },
+  "keywords": [
+    "wechat",
+    "signature",
+    "wechat message",
+    "wechat card",
+    "wechat jssdk",
+    "wechat shakearound",
+    "wechat pay"
+  ],
+  "author": "Lin Lou  <lin.lou@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loulin/wechat-signature/issues"
+  },
+  "homepage": "https://github.com/loulin/wechat-signature#readme"
+}
